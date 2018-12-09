@@ -115,11 +115,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanReadableTime", "HumanR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanReadableTime.Test", "HumanReadableTime\HumanReadableTime.Test\HumanReadableTime.Test.csproj", "{6703B3FD-3359-44C0-BF7E-62423DBE2685}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E71AB5F5-E49B-4BDF-B3E9-29D41F48B45F}"
-	ProjectSection(SolutionItems) = preProject
-		TDD Kata.docx = TDD Kata.docx
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RomanConverter", "RomanConverter", "{C2714BF0-97BC-4BD6-9A68-1F03816BF2FA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanConverter", "RomanConverter\RomanConverter\RomanConverter.csproj", "{A5BB9459-2141-4807-B57F-FBDEB2CC8A6C}"

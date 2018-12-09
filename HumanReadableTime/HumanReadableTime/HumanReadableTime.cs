@@ -27,7 +27,7 @@ namespace HumanReadableTime
             return result;
         }
 
-        private bool IsValidInput(int input)
+        private static bool IsValidInput(int input)
         {
             return input < 360000 && input >= 0;
         }
